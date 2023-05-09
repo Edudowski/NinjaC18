@@ -1,2 +1,1 @@
-# NinjaC18
-Ninja
+# project-template-C19
